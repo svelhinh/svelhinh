@@ -24,7 +24,7 @@ Worked across Flutter development, Riverpod/Provider state management, UX/UI and
 
 [Google Play](https://play.google.com/store/apps/details?id=com.epicstarz.eira) · [App Store](https://apps.apple.com/us/app/eira-calm-focus/id6761768057)
 
-### Kojo — Senior Flutter Developer
+### Kojo — Flutter Developer
 AI-powered nutrition app released on **iOS and Android**.
 
 Worked on meal logging flows (barcode, voice and manual input), onboarding, history and analytics, with an AWS-based backend using Cognito, API Gateway, Lambda, S3 and Pinpoint.
