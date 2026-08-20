@@ -17,6 +17,13 @@ I work mainly with **Flutter and Dart**, from product UI and state management to
 
 ## Selected production work
 
+### Eira — Flutter Developer
+Well-being and focus application released on **iOS and Android**.
+
+Worked across Flutter development, Riverpod/Provider state management, UX/UI and onboarding, from product iteration through store release.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.epicstarz.eira) · [App Store](https://apps.apple.com/us/app/eira-calm-focus/id6761768057)
+
 ### Kojo — Senior Flutter Developer
 AI-powered nutrition app released on **iOS and Android**.
 
@@ -24,12 +31,10 @@ Worked on meal logging flows (barcode, voice and manual input), onboarding, hist
 
 [Google Play](https://play.google.com/store/apps/details?id=com.ikigaidevelopment.kojo) · [App Store](https://apps.apple.com/us/app/kojo-diet-calorie-counter/id6745220685)
 
-### Eira — Flutter Developer
-Well-being and focus application released on **iOS and Android**.
+### Profiler — Flutter Developer
+Mobile application focused on profile feedback, swipe-based interactions and user insights.
 
-Worked across Flutter development, Riverpod/Provider state management, UX/UI and onboarding, from product iteration through store release.
-
-[Google Play](https://play.google.com/store/apps/details?id=com.epicstarz.eira) · [App Store](https://apps.apple.com/us/app/eira-calm-focus/id6761768057)
+Worked on the Flutter application as a freelance developer, covering product implementation and mobile UI flows.
 
 ### Printisk — Flutter Developer
 Worked on a printing platform spanning **mobile, desktop and web**, including Flutter applications and internal product tooling.
