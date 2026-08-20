@@ -15,7 +15,7 @@ I work mainly with **Flutter and Dart**, from product UI and state management to
 - **Engineering:** Git, automated testing, CI/CD, App Store & Google Play releases
 - **Additional:** React, TypeScript, C++, C#, Unity
 
-## Selected production work
+## Selected professional work
 
 ### Eira — Flutter Developer
 Well-being and focus application released on **iOS and Android**.
@@ -32,16 +32,18 @@ Worked on meal logging flows (barcode, voice and manual input), onboarding, hist
 [Google Play](https://play.google.com/store/apps/details?id=com.ikigaidevelopment.kojo) · [App Store](https://apps.apple.com/us/app/kojo-diet-calorie-counter/id6745220685)
 
 ### Profiler — Flutter Developer
-Mobile application focused on profile feedback, swipe-based interactions and user insights.
+Unreleased mobile application focused on profile feedback, swipe-based interactions and user insights.
 
-Worked on the Flutter application as a freelance developer, covering product implementation and mobile UI flows.
+Worked on the Flutter application as a freelance developer, covering product implementation and mobile UI flows. The application was not publicly launched.
 
 ### Printisk — Flutter Developer
-Worked on a printing platform spanning **mobile, desktop and web**, including Flutter applications and internal product tooling.
+Worked on an unreleased printing platform spanning **mobile, desktop and web**, including Flutter applications and internal product tooling.
+
+The product was not publicly launched.
 
 ## About this GitHub
 
-Most of the production code I have worked on is private or proprietary. This GitHub therefore contains a mix of **personal projects, technical prototypes, experiments and older work** from different stages of my career.
+Most of the professional code I have worked on is private or proprietary. This GitHub therefore contains a mix of **personal projects, technical prototypes, experiments and older work** from different stages of my career.
 
 I am currently improving this profile and gradually publishing more representative Flutter/mobile projects.
 
