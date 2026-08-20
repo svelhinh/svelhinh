@@ -41,14 +41,25 @@ Worked on an unreleased printing platform spanning **mobile, desktop and web**, 
 
 The product was not publicly launched.
 
+## Featured public projects
+
+### [TV Tracker](https://github.com/svelhinh/tv-tracker)
+Flutter technical prototype focused on importing TV Time data, matching shows with TMDB, local persistence, Riverpod state management and automated tests.
+
+### [Form Builder](https://github.com/svelhinh/form-builder)
+Next.js technical project exploring dynamic form composition, typed validation, authentication, drag-and-drop interactions and maintainable application structure.
+
+### [Portfolio](https://github.com/svelhinh/portfolio)
+Archive and overview of professional, personal and older projects across mobile, game development and software engineering.
+
+### [TowerSpin](https://github.com/svelhinh/TowerSpin)
+Older Unity mobile technical-test prototype showcasing gameplay systems such as pooling, procedural generation, save/load, UI flows and mobile-specific integrations.
+
 ## About this GitHub
 
-Most of the professional code I have worked on is private or proprietary. This GitHub therefore contains a mix of **personal projects, technical prototypes, experiments and older work** from different stages of my career.
-
-I am currently improving this profile and gradually publishing more representative Flutter/mobile projects.
+Most of the professional code I have worked on is private or proprietary. The public repositories here therefore focus on **personal projects, technical prototypes and selected older work** that can be shared openly.
 
 ## Currently
 
 - Open to **Flutter / Mobile Developer** opportunities
-- Building and refining personal mobile projects
-- Revisiting Unity/C++ game development alongside my main mobile work
+- Building and refining public Flutter/mobile projects
