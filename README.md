@@ -49,9 +49,9 @@ The product was not publicly launched.
 
 ### [PlayTick](https://github.com/svelhinh/PlayTick)
 
-Flutter application for managing a personal video game library and tracking playtime through individual sessions.
+Flutter application for Android and iOS for managing a personal video game library and tracking playtime through individual sessions.
 
-Built with Riverpod, Drift / SQLite, GoRouter and IGDB, with persistent session tracking, local and remote search, FR / EN localization, automated tests and GitHub Actions CI.
+Built with Riverpod, Drift / SQLite, GoRouter and IGDB, with persistent session tracking, local and remote search, FR / EN localization, automated tests, GitHub Actions CI and platform-specific iOS UI integration.
 
 ### [Portfolio](https://github.com/svelhinh/portfolio)
 
@@ -60,10 +60,6 @@ Archive and overview of professional, personal and older projects across mobile,
 ### [Form Builder](https://github.com/svelhinh/form-builder)
 
 Next.js technical project exploring dynamic form composition, typed validation, authentication, drag-and-drop interactions and maintainable application structure.
-
-### [TV Tracker](https://github.com/svelhinh/tv-tracker)
-
-Flutter technical prototype focused on importing TV Time data, matching shows with TMDB, local persistence, Riverpod state management and automated tests.
 
 ### [TowerSpin](https://github.com/svelhinh/TowerSpin)
 
